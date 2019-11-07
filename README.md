@@ -126,3 +126,16 @@ At any point, the player may choose to end the game.
 [] . . . . a . . a . a G* [**] > QUIT
 Goodbye Grasshopper!
 ```
+## Technologies Used
+- Python 3
+- Atom
+
+## Launch
+The project can be run on an IDE using python3. You can first open a command prompt window and go to the directory where you saved the java program. Type 'python3 Ant-and-the-grasshopper' and press enter to compile and run your code
+## Setup
+To set up the program. Type this into the command terminal:
+
+```
+$python grasshopper.py
+```
+
