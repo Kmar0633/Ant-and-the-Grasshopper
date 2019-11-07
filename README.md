@@ -3,7 +3,7 @@ In this game, you will control a grasshopper as it walks to the nest, hops over 
 ## Gameplay
 When the game starts, it shows the following "picture" and prompts the player to enter a command.
 ```
-$python grasshopper.py
+$python3 AntAndTheGrassHopper.py
 [] G . . . a . . a . a . [***]
 >
 ```
@@ -131,11 +131,11 @@ Goodbye Grasshopper!
 - Atom
 
 ## Launch
-The project can be run on an IDE using python3. You can first open a command prompt window and go to the directory where you saved the java program. Type 'python3 Ant-and-the-grasshopper' and press enter to compile and run your code
+The project can be run on an IDE using python3. You can first open a command prompt window and go to the directory where you saved the java program. Type 'python3 AntAndTheGrassHopper.py' and press enter to compile and run your code
 ## Setup
 To set up the program. Type this into the command terminal:
 
 ```
-$python grasshopper.py
+$python3 AntAndTheGrassHopper.py
 ```
 
